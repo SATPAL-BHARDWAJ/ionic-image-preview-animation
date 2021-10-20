@@ -5,7 +5,7 @@ Have a look at the live demo, click on the image of the post and it will open th
 <img src="post-listing.png" width="300px"> <img src="image-preview.png" width="300px">
 
 # Live Demo
-[comming soon](https://sbsharma.com/)
+[Ionic 5 image preview animation](https://sbsharma.com/ionic-5-image-preview-animation)
 
 # Contributor
 [Satpal Bhardwaj](https://sbsharma.com/ionic/)
