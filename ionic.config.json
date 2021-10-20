@@ -1,0 +1,7 @@
+{
+  "name": "socialMonk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

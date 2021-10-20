@@ -1,0 +1,50 @@
+.ts-avatar {
+    padding: 10px;
+}
+
+ion-toolbar.sc-ion-searchbar-ios-h, ion-toolbar .sc-ion-searchbar-ios-h {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 52px;
+}
+
+
+.bg-gray {
+    --background: #eeeeee;
+}
+.d-flex {
+    display: flex;
+}
+
+.ml-1{
+    margin-left: 10px;
+}
+.mr-2px{
+    margin-right: 2px;
+}
+
+.mt-1 {
+    margin-top : 10px;
+}
+
+.ion-top-border {
+	border-top: 1px solid #dedede;
+}
+
+.ion-no-border-radius {
+    border-radius: 0px;
+}
+
+.ion-no-margin-left {
+    margin-left: 0px;
+}
+
+.ion-no-margin-right {
+    margin-right: 0px;
+}
+
+.ts-buttons-wrapper {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}

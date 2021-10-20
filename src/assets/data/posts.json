@@ -1,0 +1,36 @@
+[
+    {
+        "activityUser" : "Mohit chauhan",
+        "activity" : "likes this",
+        "profilePic" : "https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_960_720.png",
+        "name" : "Ajay Thakur",
+        "status" : "2nd",
+        "description" : "I help businesses to grow faster.",
+        "content" : " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error est nisi ab ipsam molestias commodi, nostrum fugiat non qui exercitationem unde culpa nobis rerum quo ea quos illum natus? Quam?",
+        "media" : ["https://cdn.pixabay.com/photo/2021/10/04/09/20/animal-6679843_960_720.jpg", "https://cdn.pixabay.com/photo/2020/08/09/11/31/business-5475283_960_720.jpg", "https://cdn.pixabay.com/photo/2021/08/23/04/02/woman-6566600_960_720.jpg"],
+        "reactions" : "453",
+        "comments" : "2,351"
+    }, {
+        "activityUser" : "Ravi",
+        "activity" : "likes this",
+        "profilePic" : "https://cdn.pixabay.com/photo/2021/09/24/22/05/woman-6653634_960_720.jpg",
+        "name" : "Aman kumar",
+        "status" : "1st",
+        "description" : "Author | Publisher | Entrepreneur",
+        "content" : " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error est nisi ab ipsam molestias commodi, nostrum fugiat non qui exercitationem unde culpa nobis rerum quo ea quos illum natus? Quam?",
+        "media" : ["https://cdn.pixabay.com/photo/2021/08/23/04/02/woman-6566600_960_720.jpg","https://cdn.pixabay.com/photo/2021/10/04/09/20/animal-6679843_960_720.jpg", "https://cdn.pixabay.com/photo/2020/08/09/11/31/business-5475283_960_720.jpg"],
+        "reactions" : "123",
+        "comments" : "51"
+    } , {
+        "activityUser" : "Ravi",
+        "activity" : "likes this",
+        "profilePic" : "https://cdn.pixabay.com/photo/2021/09/24/22/05/woman-6653634_960_720.jpg",
+        "name" : "Aman kumar",
+        "status" : "1st",
+        "description" : "Author | Publisher | Entrepreneur",
+        "content" : " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error est nisi ab ipsam molestias commodi, nostrum fugiat non qui exercitationem unde culpa nobis rerum quo ea quos illum natus? Quam?",
+        "media" : ["https://cdn.pixabay.com/photo/2020/08/09/11/31/business-5475283_960_720.jpg","https://cdn.pixabay.com/photo/2021/08/23/04/02/woman-6566600_960_720.jpg","https://cdn.pixabay.com/photo/2021/10/04/09/20/animal-6679843_960_720.jpg"],
+        "reactions" : "123",
+        "comments" : "51"
+    }
+]

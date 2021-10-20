@@ -1,0 +1,23 @@
+ion-content {
+    --background: none;
+}
+
+ion-item {
+    --background: none;
+}
+
+ion-slides {
+    width: 100%;
+}
+
+.swiper-slide img {
+    width: 100%;
+	max-width: 100%;
+}
+
+.zoom-box {
+    position: absolute;
+    height: 90%;
+    display: flex;
+    width: 100%;
+}

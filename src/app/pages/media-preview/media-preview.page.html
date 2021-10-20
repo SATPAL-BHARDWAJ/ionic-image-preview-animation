@@ -1,0 +1,15 @@
+<ion-content>
+  <ion-item lines="none">
+    <ion-icon name="close" slot="end" (click)="dismiss()" style="font-size: 30px; color: #ffffff"></ion-icon>
+  </ion-item>
+  <div class="zoom-box">
+    <ion-slides pager="false" [options]="slideOpts">
+      <ion-slide>
+        <div class="swiper-zoom-container">
+          <img class="card-img" src="{{image}}" #mediaSlide id="mediaSlide"/>
+        </div>
+      </ion-slide>
+    </ion-slides>
+  </div>
+
+</ion-content>
