@@ -8,7 +8,7 @@ Have a look at the live demo, click on the image of the post and it will open th
 [Ionic 5 image preview animation](https://sbsharma.com/ionic-5-image-preview-animation)
 
 # Support us
-To support my free tutorials and source code you can consider your next hosting purchase with my affiliate link. It will not cost you anything extra but it will give me a small amount of commission. Here is my Hostinger affilate link [Hostinger](https://www.hostg.xyz/SH6KQ).
+<a href="https://www.hostg.xyz/SH6KQ"><img src="Support us.png" alt="To support my free tutorials and source code you can consider your next hosting purchase with my affiliate link. It will not cost you anything extra but it will give me a small amount of commission"/></a>
 
 # Contributor
 [Satpal Bhardwaj](https://sbsharma.com/ionic/)
